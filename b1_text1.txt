@@ -1,0 +1,13 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 7888-8185
+
+ Directory of C:\Rajendra\Jenkins and tomcat\MyGitRepo1
+
+11-09-2017  11:50    <DIR>          .
+11-09-2017  11:50    <DIR>          ..
+11-09-2017  11:50                 0 b1_text1.txt
+06-09-2017  03:38               401 index.txt
+06-09-2017  03:38               354 test1.txt
+11-09-2017  11:36                 0 test2.txt
+               4 File(s)            755 bytes
+               2 Dir(s)  325,530,832,896 bytes free
